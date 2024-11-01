@@ -2,6 +2,10 @@
 
 This Power BI dashboard provides an interactive analysis of the Super-Store's sales data, allowing users to explore key performance metrics across different segments, categories, regions, and time periods.
 
+## Screenshots of the Dashboard
+
+Here are a few previews of the dashboard’s main components to give you an idea of the insights provided:
+
 [Click here to view the live dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGM0Zjc2ZDgtMTA0ZS00ZWFkLTkwOWUtMTA1OGJiMGFmM2UzIiwidCI6ImQxMWFkOTIzLWQ0ZjctNGQyNC1iZWRiLTE0MzFjNjA5NDk2NyJ9)
 
 ## Key Metrics and Visualizations
