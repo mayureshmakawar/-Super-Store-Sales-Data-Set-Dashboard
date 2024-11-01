@@ -5,7 +5,7 @@ This Power BI dashboard provides an interactive analysis of the Super-Store's sa
 ## Screenshots of the Dashboard
 
 Here are a few previews of the dashboard’s main components to give you an idea of the insights provided:
-(https://github.com/mayureshmakawar/-Super-Store-Sales-Data-Set-Dashboard/blob/main/Screenshot%202024-11-01%20225339.png)
+![Report Overview](https://github.com/mayureshmakawar/-Super-Store-Sales-Data-Set-Dashboard/blob/main/Screenshot%202024-11-01%20225339.png)
 
 [Click here to view the live dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGM0Zjc2ZDgtMTA0ZS00ZWFkLTkwOWUtMTA1OGJiMGFmM2UzIiwidCI6ImQxMWFkOTIzLWQ0ZjctNGQyNC1iZWRiLTE0MzFjNjA5NDk2NyJ9)
 
